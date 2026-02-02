@@ -210,3 +210,4 @@ __marimo__/
 # keys
 keys/
 *.json
+pipeline/.env_encoded
